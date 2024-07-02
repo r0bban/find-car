@@ -2,7 +2,7 @@
   "name": "find-car",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://r0bban.github.io/find-car/",
+  "homepage": "https://skaffabil.se/",
   "type": "module",
   "scripts": {
     "dev": "vite",
