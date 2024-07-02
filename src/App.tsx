@@ -5,6 +5,7 @@ import Home from "./Home.tsx";
 import CompanyOwner from "./CompanyOwner.tsx";
 
 function App() {
+
   return (
     <>
       <Routes>
